@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "df8466ad46387e27",
+    "type": "split",
+    "children": [
+      {
+        "id": "e24dddf75ab83a04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68acf7887b48eb6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jitjitsu/Submissions/Strangulation/Triangle/Triangle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e22bda8a75b628d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4bd7d7b1d630c8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5e159846786718f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be07f6f5331785af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5a0af27a42f7082",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aa9c48ec8191884b",
+    "type": "split",
+    "children": [
+      {
+        "id": "300aa14cc821a05c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96356d1e44a0a5bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Jitjitsu/Submissions/Strangulation/Triangle/Triangle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3bf0a292c9621e6f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Jitjitsu/Submissions/Strangulation/Triangle/Triangle.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b3f6138116431c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e25120346f1e916f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Jitjitsu/Submissions/Strangulation/Triangle/Triangle.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b5e159846786718f",
+  "lastOpenFiles": [
+    "Jitjitsu/Submissions/Strangulation/Triangle",
+    "Jitjitsu/Core Positions/93 Guard/93 Guard.md",
+    "Jitjitsu/Core Positions/3 Quarter Mount/3 Quarter Mount.md"
+  ]
+}
