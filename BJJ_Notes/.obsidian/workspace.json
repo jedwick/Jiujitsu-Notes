@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "e24dddf75ab83a04",
+        "id": "1ca492ba3d500fd2",
         "type": "tabs",
         "children": [
           {
-            "id": "68acf7887b48eb6e",
+            "id": "0a53cdd25b5c7ce2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jitjitsu/Submissions/Strangulation/Triangle/Triangle.md",
+                "file": "Jiujitsu/Submissions/Joint Locks/Armbar/Armbar from Side Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "425751ffff2e096f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jiujitsu/Philosophy/Mindset.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f56bc294c2fd03a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jiujitsu/Submissions/Strangulation/Triangle/Triangle from Mount.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jitjitsu/Submissions/Strangulation/Triangle/Triangle.md",
+                "file": "Jiujitsu/Submissions/Strangulation/Triangle/Triangle from Mount.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jitjitsu/Submissions/Strangulation/Triangle/Triangle.md",
+                "file": "Jiujitsu/Submissions/Strangulation/Triangle/Triangle from Mount.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jitjitsu/Submissions/Strangulation/Triangle/Triangle.md"
+                "file": "Jiujitsu/Submissions/Strangulation/Triangle/Triangle from Mount.md"
               }
             }
           }
@@ -146,10 +171,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5e159846786718f",
+  "active": "1f56bc294c2fd03a",
   "lastOpenFiles": [
-    "Jitjitsu/Submissions/Strangulation/Triangle",
-    "Jitjitsu/Core Positions/93 Guard/93 Guard.md",
-    "Jitjitsu/Core Positions/3 Quarter Mount/3 Quarter Mount.md"
+    "Jiujitsu/Submissions/Strangulation/Triangle/Triangle from Collar Sleeve.md",
+    "Jiujitsu/Submissions/Strangulation/Triangle/Triangle.md",
+    "Jiujitsu/Submissions/Strangulation/Triangle/Triangle from Spider Guard.md",
+    "Jiujitsu/Submissions/Strangulation/Triangle/Triangle from Closed Guard.md",
+    "Jiujitsu/Submissions/Strangulation/Triangle/Triangle from Mount.md",
+    "Jiujitsu/Submissions/Strangulation/Rear Naked/Rear Naked.md",
+    "Jiujitsu/Submissions/Strangulation/Bow & Arrow/Bow & Arrow.md",
+    "Jiujitsu/Submissions/Strangulation/Rear Naked",
+    "Jiujitsu/Submissions/Strangulation/Triangle/Triangle from Hip Bump Sweep.md",
+    "Jiujitsu/Submissions/Strangulation/Bow & Arrow",
+    "Jiujitsu/Submissions/Strangulation/Canto Choke",
+    "Jiujitsu/Submissions/Strangulation/Short Choke",
+    "HOME/Training ideas.md",
+    "HOME/READ ME.md",
+    "HOME/Current Focus.md",
+    "HOME/Templates/Core  Positions Template.md",
+    "Jiujitsu/Submissions/Joint Locks/Armbar/Armbar from Mount.md",
+    "Jiujitsu/Submissions/Joint Locks/Armbar/Armbar from Knee on Belly.md",
+    "Jiujitsu/Submissions/Joint Locks/Armbar/Armbar from Side Control.md",
+    "Jiujitsu/Philosophy/Mindset.md",
+    "Jiujitsu/Philosophy",
+    "Jiujitsu/Core Positions/Back Control/Back Control.md",
+    "Attachments/Hip_bump_sweep_to_triangle.gif",
+    "Jiujitsu/Submissions/Joint Locks/Armbar/Armbar.md",
+    "Jiujitsu/Submissions/Joint Locks/Armbar/Armbar from Closed Guard.md",
+    "Jiujitsu/Submissions/Joint Locks/Armbar/Armbar from Back Control.md",
+    "Jiujitsu/Core Positions/Mount/Mount.md",
+    "Attachments/Mount_grape_vines.jpg",
+    "Attachments/Mount_grape_vines.jpg.download",
+    "Jiujitsu/Sweeps/Hip Bump Sweep.md",
+    "Attachments/armbar_from_mount.gif",
+    "Attachments/armbar_from_mount.gif.download",
+    "Attachments/Armbar_from_closed_guard.gif",
+    "Attachments/Armbar_from_closed_guard.gif.download",
+    "Attachments/triangle_from_closed_guard.gif",
+    "Attachments/triangle_from_closed_guard.gif.download",
+    "Attachments/Carotid_artery.png",
+    "Jiujitsu/Submissions/Strangulation/Cross Choke/Cross Choke.md",
+    "Jiujitsu/Submissions/Strangulation/Cross Choke",
+    "Jiujitsu/Core Positions/Closed Guard/Closed Guard.md",
+    "Jiujitsu/Core Positions/X Guard/X Guard.md",
+    "Jiujitsu/Submissions/Joint Locks/Knee Bar/Knee Bar.md"
   ]
 }

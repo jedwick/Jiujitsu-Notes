@@ -1,16 +1,12 @@
----
-tags:
-- Core Positions
-date: {{date:YYYY-MM-DD}}T{{time:HH:mm}}
----
 
 ### Description
 Example
 
-### Pros
-- Example
-- 
-### Cons
+### Pros & Cons
+Pros
+- Example 
+
+Cons
 - Example
 - 
 
@@ -39,6 +35,9 @@ Sweeps:
 
 ### External Links:
 **Bernardo Faria BJJ Fanatics[](https://www.youtube.com/channel/UCtXtqlLdZYZm3060qVExXkA)
+- 
+
+**Marcelo Garcia Jiu-Jitsu[](https://www.youtube.com/channel/UCpWiUqPJ-6-9n0Zkes2Ik0g)
 - 
 
 **Jon Thomas BJJ [](https://www.youtube.com/channel/UCBNsOFfO-TZDIpygfz5paaQ)
